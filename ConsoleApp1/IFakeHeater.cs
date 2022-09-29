@@ -6,6 +6,6 @@ namespace ECS_
 {
     public interface IFakeHeater
     {
-        bool FakeTurnOn(int i);
+        bool FakeTurnOn(int p);
     }
 }
